@@ -1,1 +1,2 @@
 print("Function completed")
+print(":-)")
