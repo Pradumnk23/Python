@@ -1,3 +1,4 @@
+# take mid element if equals ok, otherwise same step
 pos = -1
 
 def search(list2, n):
