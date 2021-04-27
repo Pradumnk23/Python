@@ -1,2 +1,0 @@
-print("Function completed")
-print(":-)")
